@@ -1,7 +1,7 @@
 {
-  "author": "",
-  "name": "",
-  "description": "",
+  "author": "Your name",
+  "name": "package-name",
+  "description": "Package Description",
   "version": "0.0.1",
   "homepage": "",
   "repository": {
